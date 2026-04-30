@@ -1,0 +1,11 @@
+.idea/
+
+.trae/
+
+.vscode/
+
+.cursor/
+
+target/
+
+.DS_Store
